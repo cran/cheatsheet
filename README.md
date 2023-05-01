@@ -1,15 +1,13 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# cheatsheet <img src='https://github.com/bradlindblad/cheatsheet/blob/main/fig/logo.png?raw=true' align="right" width="120" />
+# cheatsheet <img src='https://github.com/bradlindblad/cheatsheet/blob/main/man/figures/logo.png?raw=true' align="right" width="120" />
 
 <!-- badges: start -->
 
-[![R build
-status](https://github.com/bradlindblad/cheatsheet/workflows/R-CMD-check/badge.svg)](https://github.com/bradlindblad/cheatsheet/actions)
+[![R-CMD-check](https://github.com/bradlindblad/cheatsheet/actions/workflows/check-standard.yaml/badge.svg)](https://github.com/bradlindblad/cheatsheet/actions/workflows/check-standard.yaml)
 [![pkgdown](https://github.com/bradlindblad/cheatsheet/actions/workflows/pkgdown.yaml/badge.svg)](https://github.com/bradlindblad/cheatsheet/actions/workflows/pkgdown.yaml)
-[![Codecov test
-coverage](https://app.codecov.io/gh/bradlindblad/cheatsheet/branch/main/graph/badge.svg)](https://app.codecov.io/gh/bradlindblad/cheatsheet?branch=main)
+[![codecov](https://codecov.io/gh/bradlindblad/cheatsheet/branch/main/graph/badge.svg?token=ww0rPGYgt4)](https://app.codecov.io/gh/bradlindblad/cheatsheet)
 [![metacran
 downloads](https://cranlogs.r-pkg.org/badges/grand-total/cheatsheet)](https://cran.r-project.org/package=cheatsheet)
 [![CRAN

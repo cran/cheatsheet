@@ -1,6 +1,6 @@
 Package: cheatsheet
 Title: Download R Cheat Sheets Locally
-Version: 0.1.1
+Version: 0.1.2
 Authors@R: 
     c(person(given = "Brad",
            family = "Lindblad",
@@ -17,9 +17,9 @@ URL: https://bradlindblad.github.io/cheatsheet/
 BugReports: https://github.com/bradlindblad/cheatsheet/issues
 Imports: magrittr, git2r, fs, crayon, cli, purrr, rstudioapi
 NeedsCompilation: no
-Packaged: 2023-01-29 15:25:12 UTC; brad
+Packaged: 2023-05-01 02:10:43 UTC; brad
 Author: Brad Lindblad [aut, cre],
   Posit [cph]
 Maintainer: Brad Lindblad <me@bradlindblad.com>
 Repository: CRAN
-Date/Publication: 2023-01-29 15:50:02 UTC
+Date/Publication: 2023-05-01 14:40:05 UTC
